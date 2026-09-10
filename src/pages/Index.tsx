@@ -524,10 +524,10 @@ export default function Index() {
                 <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[rgb(81,86,178)] to-[rgb(48,167,225)] flex items-center justify-center">
                   <Terminal className="h-4 w-4 text-white" />
                 </div>
-                <span className="text-white font-bold text-lg">Llama Local WebUI</span>
+                <span className="text-white font-bold text-lg">Ollama Local WebUI</span>
               </div>
               <p className="text-[rgba(255,255,255,0.5)] text-sm leading-relaxed">
-                Uma interface web simples e poderosa para rodar modelos de IA localmente com Llama 3.2, sem necessidade de docker ou configuração complexa.
+                Uma interface web simples e poderosa para rodar modelos de IA localmente, sem necessidade de docker ou configuração complexa.
               </p>
             </div>
             <div>
@@ -563,7 +563,7 @@ export default function Index() {
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="text-[rgba(255,255,255,0.5) hover:text-[rgb(81,86,178)] transition-colors text-sm flex items-center gap-2">
+                  <a href="https://huggingface.co" className="text-[rgba(255,255,255,0.5) hover:text-[rgb(81,86,178)] transition-colors text-sm flex items-center gap-2">
                     <Star className="h-3.5 w-3.5 flex-shrink-0" />
                     Modelos disponíveis
                   </a>
@@ -589,7 +589,7 @@ export default function Index() {
             </div>
           </div>
           <div className="pt-8 border-t border-[rgb(35,35,52)] flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-[rgba(255,255,255,0.4)]">
-            <p>© {new Date().getFullYear()} Llama Local WebUI. Todos os direitos reservados.</p>
+            <p>© {new Date().getFullYear()} <a href="https://portfoliojurandi.vercel.app" target="_blank" class="hover:text-primary transition-colors font-bold">JURANDIBS</a>. Todos os direitos reservados.</p>
             <p>
               Feito com <span className="text-[rgb(239,68,68)]">❤️</span> pelos entusiastas da IA.
             </p>

@@ -1,4 +1,4 @@
-# Llama Local WebUI 🧠💻
+# Ollama Local WebUI 🧠💻
 
 Uma landing page moderna e minimalista que explica os benefícios de rodar IA localmente para desenvolvimento de software. Desenvolvida como demonstração de Rápido Desenvolvimento com IA Local em hardware limitado.
 
@@ -10,6 +10,7 @@ Esta landing page foi desenvolvida com o auxílio do modelo **Qwen 3.5 - Omnicod
 
 O código foi gerado, revisado e otimizado com o modelo quantizado (Q2_K), que é suficientemente capaz para geração de código frontend de alta qualidade, estilização Tailwind CSS e arquitetura de componentes React.
 
+Modelos em https://huggingface.co
 ---
 
 ## 📋 Tópicos Abordados na Landing Page
@@ -34,7 +35,6 @@ O código foi gerado, revisado e otimizado com o modelo quantizado (Q2_K), que �
 | **Build Tool** | Vite (Rollup-based bundler) |
 | **Hosting** | Vercel (Next.js / Static Export) |
 
-> **Nota:** O projeto original do [Llama-Local-WebUI](https://github.com/ggaudette/Llama-Local-WebUI) roda sobre WebUI local com Llama.cpp, mas esta landing page é uma peça de documentação/comunicação independente sobre os benefícios da IA local.
 
 ---
 
