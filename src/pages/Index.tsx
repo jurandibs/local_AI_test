@@ -493,13 +493,13 @@ export default function Index() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="https://github.com/ggaudette/Llama-Local-WebUI"
+              href="https://github.com/jurandibs/local_AI_test"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-2 px-6 py-3.5 rounded-lg bg-[rgb(76,179,242)]/10 hover:bg-[rgb(76,179,242)]/20 border border-[rgb(76,179,242)]/50 text-white font-medium transition-all duration-300 hover:border-[rgb(76,179,242)]/75 hover:shadow-[0_0_32px_rgba(76,179,242,0.15)]"
             >
               <Github className="h-5 w-5 transition-transform group-hover:-translate-x-0.5 group-hover:-translate-y-0.5" />
-              <span>Gaude a no GitHub</span>
+              <span>GitHub</span>
               <ExternalLink className="h-4 w-4 opacity-70" />
             </a>
             <a
@@ -534,13 +534,13 @@ export default function Index() {
               <h5 className="text-white font-semibold mb-4">Recursos</h5>
               <ul className="space-y-2.5">
                 <li>
-                  <a href="https://github.com/ggaudette/Llama-Local-WebUI" className="text-[rgba(255,255,255,0.5) hover:text-[rgb(81,86,178)] transition-colors text-sm flex items-center gap-2">
+                  <a href="https://github.com/jurandibs/local_AI_test" className="text-[rgba(255,255,255,0.5) hover:text-[rgb(81,86,178)] transition-colors text-sm flex items-center gap-2">
                   <ExternalLink className="h-3.5 w-3.5 flex-shrink-0" />
                   Documentação completa
                 </a>
                 </li>
                 <li>
-                  <a href="https://github.com/ggaudette/Llama-Local-WebUI/blob/master/README.md" className="text-[rgba(255,255,255,0.5) hover:text-[rgb(81,86,178)] transition-colors text-sm flex items-center gap-2">
+                  <a href="https://github.com/jurandibs/local_AI_test/blob/main/README.md" className="text-[rgba(255,255,255,0.5) hover:text-[rgb(81,86,178)] transition-colors text-sm flex items-center gap-2">
                   <ExternalLink className="h-3.5 w-3.5 flex-shrink-0" />
                   README
                 </a>
@@ -574,7 +574,7 @@ export default function Index() {
               <h5 className="text-white font-semibold mb-4">Comunidade</h5>
               <ul className="space-y-2.5">
                 <li>
-                  <a href="https://github.com/ggaudette/Llama-Local-WebUI" className="text-[rgba(255,255,255,0.5) hover:text-[rgb(81,86,178)] transition-colors text-sm flex items-center gap-2">
+                  <a href="https://github.com/jurandibs/local_AI_test" className="text-[rgba(255,255,255,0.5) hover:text-[rgb(81,86,178)] transition-colors text-sm flex items-center gap-2">
                     <Github className="h-3.5 w-3.5 flex-shrink-0" />
                     GitHub
                   </a>
