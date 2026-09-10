@@ -53,9 +53,13 @@ Q2_K é uma quantização 2-bit que mantém 6.0-bit efetivo por parâmetro, usan
 O modelo é executado localmente no mesmo hardware que roda esta página (CPU/MacOS + Rust backend via Dyad).
 Por que isso importa?
 
+---
+
 🧠 Demonstra que modelos locais de 9B parâmetros são suficientes para gerar código frontend complexo em minutos.
 💰 Custo de desenvolvimento ≈ $0 (hardware já existente).
 🔐 Todo o código foi gerado e refinado localmente — zero dados saíram do meu computador.
+
+---
 
 🎨 Stack de Frontend
 
