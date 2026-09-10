@@ -141,7 +141,8 @@ pagar por tokens (milhares de gerações já custariam centenas de dólares)
 esperar por limites de rate limiting
 ter medo de dados vazarem via API
 ser dependentes de provedores que mudam preços a cada mês
-Um único modelo de 9B Q2_K roda em CPU de laptop, gera código completo, explica bugs, refatora código e entende contexto com zero custo marginal após o investimento inicial.
+Um único modelo de 9B Q2_K roda em CPU de laptop, gera código completo, explica bugs, 
+refatora código e entende contexto com zero custo marginal após o investimento inicial.
 
 📜 Licença
 MIT License — código aberto para fins educativos e demonstrativos.
